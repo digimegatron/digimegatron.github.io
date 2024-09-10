@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://digimegatron.github.io/sitemap.xml
